@@ -7,7 +7,7 @@ public class Tema9 {
 		cliente.setEdad(20);
 		cliente.setNombre("Daniel");
 		cliente.setTelefono((long)341232132);
-		cliente.setCredito((double)20000.45);
+		cliente.setCredito(20000.45);
 		System.out.println("Cliente");
 		System.out.printf("Edad: %d \nNombre: %s \nTelefono: %d \nCredito: %.2f", cliente.getEdad(), cliente.getNombre(), cliente.getTelefono(), cliente.getCredito());
 		
