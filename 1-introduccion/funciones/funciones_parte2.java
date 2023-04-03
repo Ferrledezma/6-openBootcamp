@@ -1,4 +1,4 @@
-public class CodeJava {
+public class Funciones_parte2 {
 	public static void main(String[] args) {
 		Coche auto = new Coche();
 		auto.incrementarPuertas();

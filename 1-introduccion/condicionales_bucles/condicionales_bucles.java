@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class CodeJava {
+public class Condicionales_bucles {
 	public static void main(String[] args) {
 		//condicional else if
 		System.out.println("Condicional if");
