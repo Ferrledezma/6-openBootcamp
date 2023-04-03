@@ -16,7 +16,7 @@ public class Tema9 {
 		trabajador.setEdad(24);
 		trabajador.setNombre("Maria");
 		trabajador.setTelefono((long)12321132);
-		trabajador.setSalario((double)1000.93);
+		trabajador.setSalario(1000.93);
 		System.out.println("\nTrabajador");
 		System.out.printf("\nEdad: %d \nNombre: %s \nTelefono: %d \nCredito: %.2f", trabajador.getEdad(), trabajador.getNombre(), trabajador.getTelefono(), trabajador.getSalario());
 		
